@@ -15,6 +15,9 @@ The formative assessments were created in Word. They are translated to jupyter n
 
 ### 1.2 Uncertainties and errors
 
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [word](), [pdf](), [ipynb](), [2020](), [2021](), [jupyter notebook]()
+
 ### 1.3 Vectors and scalars
 
 ## Topic 2 - Mechanics

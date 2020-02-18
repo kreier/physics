@@ -5,6 +5,7 @@ Slides and formative assessments
 - [Powerpoint Series 1](https://drive.google.com/open?id=18wEXWMASSTrLhjrVwzVrZImc5bLa42V6)
 - [Powerpoint Series 2](https://drive.google.com/open?id=1Zi6j8ECYUrJOPDpvYzfvb6Sy_bLPpxW8)
 - [Formative assessment](https://drive.google.com/open?id=1rWc4Xtn_aqcqBzV5mtkMf3cUWCNbINXm)
+- [give it a try](https://drive.google.com/open?id=1ckPyYUWHaQMIKd2j1sD8RgCBWXl3zFwZ)
 
 The formative assessments were created in Word. They are translated to jupyter notebook here. Based on these notebooks an example solution in Jupyter notebook is created. There is a [Word document with similar links](https://drive.google.com/file/d/1tINJtPGmdBGhy6ZH608g_bMzFcfzFqH9/view?usp=sharing).
 

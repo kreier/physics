@@ -2,19 +2,19 @@
 
 > 2020/02/19
 
-Slides (series 1, [series2](https://drive.google.com/open?id=1Zi6j8ECYUrJOPDpvYzfvb6Sy_bLPpxW8)) and formative assessments (docx, pdf). This document exists as [docx](https://drive.google.com/file/d/1tINJtPGmdBGhy6ZH608g_bMzFcfzFqH9/view?usp=sharing) and pdf. Assignments for formative: [Instructions](https://drive.google.com/open?id=1L5_Bh-aMIoGKNTAV7mmJw-CbFryPB-aD), 2020, [2021](https://drive.google.com/open?id=1NcXxqDYjwJm7lAY2-ENT6h7-zvBOGMJsBhLMR9sw48Y).
+Slides (series 1, [series2](https://drive.google.com/open?id=1Zi6j8ECYUrJOPDpvYzfvb6Sy_bLPpxW8)) and formative assessments (docx, pdf). This document exists as [docx](https://drive.google.com/file/d/1tINJtPGmdBGhy6ZH608g_bMzFcfzFqH9/view?usp=sharing) and pdf. Assignments for formative: [Instructions](https://drive.google.com/open?id=1L5_Bh-aMIoGKNTAV7mmJw-CbFryPB-aD), [2020](https://docs.google.com/spreadsheets/d/1-tePWvmD-3ph2Zc33m8OJ4C9N9aSiEcTUSxeWjDklGM/edit?usp=sharing), [2021](https://drive.google.com/open?id=1NcXxqDYjwJm7lAY2-ENT6h7-zvBOGMJsBhLMR9sw48Y).
 
 ## Topic 1 - Measurements and Uncertainties
 ### 1.1 Measurements in physics
 
-- Powerpoint: [Series 1](), [Series 2]()
-- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Powerpoint: [Series 1](), [Series 2](https://drive.google.com/open?id=1fGBUsFw30oUT61g6F3KdtVb9vLPUUi1F)
+- Formative: [Word](), [PDF](), Jupyter notebook
 - Solution: [2020](), [2021](), [ipynb]()
 
 ### 1.2 Uncertainties and errors
 
-- Powerpoint: [Series 1](), [Series 2]()
-- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Powerpoint: [Series 1](), [Series 2](https://drive.google.com/open?id=1JDdhBkAuUUQnPN0pb-wnpyNJGAE87mbC)
+- Formative: [Word](), [PDF](), Jupyter notebook
 - Solution: [2020](), [2021](), [ipynb]()
 
 ### 1.3 Vectors and scalars

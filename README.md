@@ -1,40 +1,63 @@
 # IB Physics
 
-Slides and formative assessments
+Slides (series 1, [series2](https://drive.google.com/open?id=1Zi6j8ECYUrJOPDpvYzfvb6Sy_bLPpxW8)) and formative assessments (docx, pdf)
 
-- [Powerpoint Series 1](https://drive.google.com/open?id=18wEXWMASSTrLhjrVwzVrZImc5bLa42V6)
-- [Powerpoint Series 2](https://drive.google.com/open?id=1Zi6j8ECYUrJOPDpvYzfvb6Sy_bLPpxW8)
-- [Formative assessment](https://drive.google.com/open?id=1rWc4Xtn_aqcqBzV5mtkMf3cUWCNbINXm)
-- [give it a try](https://drive.google.com/open?id=1ckPyYUWHaQMIKd2j1sD8RgCBWXl3zFwZ)
+This document exists as [docx](https://drive.google.com/file/d/1tINJtPGmdBGhy6ZH608g_bMzFcfzFqH9/view?usp=sharing) and pdf.
 
-The formative assessments were created in Word. They are translated to jupyter notebook here. Based on these notebooks an example solution in Jupyter notebook is created. There is a [Word document with similar links](https://drive.google.com/file/d/1tINJtPGmdBGhy6ZH608g_bMzFcfzFqH9/view?usp=sharing).
+Assignments for formative: Instructions, 2020, 2021.
 
 ## Topic 1 - Measurements and Uncertainties
 ### 1.1 Measurements in physics
 
-[Series 1](), [Series 2](), [Formative](), [Formative Jupyter](), [Formative Jupyter solution]()
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
 
 ### 1.2 Uncertainties and errors
 
 - Powerpoint: [Series 1](), [Series 2]()
-- Formative: [word](), [pdf](), [ipynb](), [2020](), [2021](), [jupyter notebook]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
 
 ### 1.3 Vectors and scalars
+
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
 
 ## Topic 2 - Mechanics
 ### 2.1 Motion
 
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
+
 ### 2.2 Forces
 <img src="pic/force.jpg" width="150px" align="right">
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
 
 ### 2.3 Work, energy and powr
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
 
 ### 2.4 Momentum and impulse
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
 
 ## Topic 3: Thermal physics
 ### 3.1 Thermal concepts
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
 
 ### 3.2 Modelling a gas
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
 
 ## Topic 4: Waves
 ### 4.1 Oscillations
@@ -58,8 +81,14 @@ The formative assessments were created in Word. They are translated to jupyter n
 
 ## Topic 6: Circular motion and gravitation
 ### 6.1 Circular motion
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
 
 ### 6.2 Newton's law of gravitation
+- Powerpoint: [Series 1](), [Series 2]()
+- Formative: [Word](), [PDF](), [Jupyter notebook]()
+- Solution: [2020](), [2021](), [ipynb]()
 
 ## Topic 7: Atomar, nuclear and particle physics
 ### 7.1 Discrete energy and radioactivity

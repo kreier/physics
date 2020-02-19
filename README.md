@@ -1,10 +1,8 @@
 # IB Physics
 
-Slides (series 1, [series2](https://drive.google.com/open?id=1Zi6j8ECYUrJOPDpvYzfvb6Sy_bLPpxW8)) and formative assessments (docx, pdf)
+> 2020/02/19
 
-This document exists as [docx](https://drive.google.com/file/d/1tINJtPGmdBGhy6ZH608g_bMzFcfzFqH9/view?usp=sharing) and pdf.
-
-Assignments for formative: Instructions, 2020, 2021.
+Slides (series 1, [series2](https://drive.google.com/open?id=1Zi6j8ECYUrJOPDpvYzfvb6Sy_bLPpxW8)) and formative assessments (docx, pdf). This document exists as [docx](https://drive.google.com/file/d/1tINJtPGmdBGhy6ZH608g_bMzFcfzFqH9/view?usp=sharing) and pdf. Assignments for formative: [Instructions](https://drive.google.com/open?id=1L5_Bh-aMIoGKNTAV7mmJw-CbFryPB-aD), 2020, [2021](https://drive.google.com/open?id=1NcXxqDYjwJm7lAY2-ENT6h7-zvBOGMJsBhLMR9sw48Y).
 
 ## Topic 1 - Measurements and Uncertainties
 ### 1.1 Measurements in physics

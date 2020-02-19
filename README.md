@@ -25,6 +25,7 @@ The formative assessments were created in Word. They are translated to jupyter n
 ### 2.1 Motion
 
 ### 2.2 Forces
+<img src="pic/force.jpg" width="150px" align="right">
 
 ### 2.3 Work, energy and powr
 
@@ -71,3 +72,8 @@ The formative assessments were created in Word. They are translated to jupyter n
 ### 8.1 Energy sources
 
 ### 8.2 Thermal energy transfer
+
+[![MIT license](https://img.shields.io/github/license/kreier/physics?color=brightgreen)](http://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.io/kreier/physics.svg)](http://hits.dwyl.io/kreier/physics)
+
+<a href="https://www.freepik.com/free-photos-vectors/logo">Logo vector created by freepik - www.freepik.com</a>
